@@ -23,8 +23,8 @@ A modern grocery shopping and management web application built with React and Ty
 
 ## Quick Start
 ```bash
-git clone <YOUR_GIT_URL>
-cd <PROJECT_NAME>
+git clone https://github.com/Kartheek-Dasari/munch-matrix.git
+cd "Web Application for Grocery management System"
 npm install
 npm run dev
 ```
