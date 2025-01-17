@@ -2,15 +2,13 @@
 
 A modern grocery shopping and management web application built with React and TypeScript.
 
-![Fresh Market Homepage](URL_OF_YOUR_APP_IMAGE)
+![Fresh Market Homepage](https://github.com/Kartheek-Dasari/munch-matrix/blob/main/App%20View.png)
 
 ## Features
 - 🛒 **Shopping Cart & Product Catalog**
   - Real-time price calculations
   - Stock management
   - Quantity controls
-
-![Shopping Cart](https://i.imgur.com/placeholder2.jpg)
 
 - 📱 **Responsive Design**
   - Works on all devices
