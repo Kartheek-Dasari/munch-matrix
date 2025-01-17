@@ -1,10 +1,30 @@
-# Welcome to your Lovable project
+# Fresh Market - Grocery Management System
+
+A modern web application for grocery shopping and management built with React, TypeScript, and shadcn/ui.
 
 ## Project info
 
 **URL**: https://lovable.dev/projects/ea311e15-5815-4fa5-bbd3-b4b4719d56d9
 
-## How can I edit this code?
+## Features
+
+- **Product Catalog**: Browse through a variety of fresh groceries with detailed information
+- **Shopping Cart**: Add products to cart with quantity control
+- **Real-time Updates**: Instant price calculations and cart updates
+- **Responsive Design**: Works seamlessly on desktop and mobile devices
+- **Stock Management**: Real-time stock tracking for products
+- **User-friendly Interface**: Clean and intuitive design with smooth animations
+
+## Technical Stack
+
+- **Frontend Framework**: React with TypeScript
+- **UI Components**: shadcn/ui
+- **Styling**: Tailwind CSS
+- **State Management**: React Query
+- **Icons**: Lucide React
+- **Routing**: React Router DOM
+
+## How to Edit This Code
 
 There are several ways of editing your application.
 
@@ -50,9 +70,9 @@ npm run dev
 - Click on "New codespace" to launch a new Codespace environment.
 - Edit files directly within the Codespace and commit and push your changes once you're done.
 
-## What technologies are used for this project?
+## Technologies Used
 
-This project is built with .
+This project is built with:
 
 - Vite
 - TypeScript
@@ -60,10 +80,10 @@ This project is built with .
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
+## Deployment
 
 Simply open [Lovable](https://lovable.dev/projects/ea311e15-5815-4fa5-bbd3-b4b4719d56d9) and click on Share -> Publish.
 
-## I want to use a custom domain - is that possible?
+## Custom Domains
 
 We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
